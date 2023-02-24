@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+👁️‍🗨️️🎴️🎎️ The Anime Studio avatar studio, for creating and managing Anime and Manga character avatars. Part of the Anime Studio software project.
